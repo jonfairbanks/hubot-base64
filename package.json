@@ -1,0 +1,23 @@
+{
+  "name": "hubot-base64",
+  "version": "1.0.0",
+  "description": "Base64 encoding and decoding with Hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonfairbanks/hubot-base64.git"
+  },
+  "keywords": [
+    "hubot",
+    "base64"
+  ],
+  "author": "Jon Fairbanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonfairbanks/hubot-base64/issues"
+  },
+  "homepage": "https://github.com/jonfairbanks/hubot-base64#readme"
+}
