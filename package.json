@@ -1,6 +1,6 @@
 {
   "name": "hubot-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base64 encoding and decoding with Hubot",
   "main": "index.coffee",
   "scripts": {
