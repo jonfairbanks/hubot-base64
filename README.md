@@ -2,7 +2,8 @@
 
 Base64 encoding and decoding with Hubot 
 
-Usage: 
+
+### Usage: 
 
 `@hubot encode <string>` - Outputs a Base64 encoded version of your string
 
